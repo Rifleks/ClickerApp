@@ -21,7 +21,7 @@
 🔐 **Cloud Saves** – Protect your progress (Google Drive)  
 🛡️ **Security Improvements** – Fair gameplay for all  
 
-📦 **The latest version is already available on [GitHub](ClickerApp)!**
+📦 **The latest version is already available on [GitHub](https://github.com/Rifleks/ClickerApp/releases)!**
 
 ---  
 
@@ -45,4 +45,4 @@
 🔐 **Облачные сохранения** – Соранение прогресса (GoogleAuth)  
 🛡️ **Защита от читов и взломов** – Честный игровой процесс  
 
-📦 **Последняя версия уже доступна на [GitHub](ClickerApp)!**   
+📦 **Последняя версия уже доступна на [GitHub](https://github.com/Rifleks/ClickerApp/releases)!**   
