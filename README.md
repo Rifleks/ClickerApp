@@ -1,5 +1,5 @@
 # 🥭 MangoClicker
-
+![MangoClicker](2025071213565635.png)
 
 # **🌍 English:**  
 🚀 **Welcome to MangoClicker!** - Clicker for Android
