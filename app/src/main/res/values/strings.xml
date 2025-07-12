@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MangoClicker</string>
+    <string name="click_button_desc">Click button</string>
+    <string name="clicker_tab_desc">Clicker tab</string>
+    <string name="shop_tab_desc">Shop tab</string>
+    <string name="main_tab">Main</string>
+    <string name="shop_tab">Upgrades</string>
+</resources>
