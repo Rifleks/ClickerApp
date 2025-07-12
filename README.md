@@ -1,7 +1,7 @@
 # 🥭 MangoClicker
-![MangoClicker](2025071213565635.png)
+![MangoClicker](https://github.com/Rifleks/ClickerApp/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
-# **🌍 English:**  
+### **🌍 English:**  
 🚀 **Welcome to MangoClicker!** - Clicker for Android
 
 🍹 **Tap the giant mango**, earn juicy points, and upgrade your tools in the **Shop**!  
@@ -16,16 +16,16 @@
 ✔ **Minimalistic & smooth** – Works even on older devices!  
 
 🔮 **Planned Updates:**  
-✨ **New Upgrades** – More ways to grow your mango farm!  
-📅 **Daily Challenges** – Complete tasks for special rewards!  
-🔐 **Cloud Saves** – Protect your progress (Google Drive)  
-🛡️ **Security Improvements** – Fair gameplay for all  
+    - ✨ **New Upgrades** – More ways to grow your mango farm!  
+    - 📅 **Daily Challenges** – Complete tasks for special rewards!  
+    - 🔐 **Cloud Saves** – Protect your progress (Google Drive)  
+    - 🛡️ **Security Improvements** – Fair gameplay for all  
 
 📦 **The latest version is already available on [GitHub](https://github.com/Rifleks/ClickerApp/releases)!**
 
 ---  
 
-# **🌍 Русский:**  
+### **🌍 Русский:**  
 🚀 **Добро пожаловать в MangoClicker!** - Кликер для Android!  
 
 🍹 **Нажимайте на манго**, зарабатывайте очки и улучшайте инструменты в **Магазине**!  
@@ -40,9 +40,9 @@
 ✔ **Оптимизирован** – Работает даже на старых телефонах!  
 
 🔮 **Планируемые обновления:**  
-✨ **Новые улучшения** – Больше способов зарабатывать!  
-📅 **Ежедневные задания** – Особые награды за выполнение!  
-🔐 **Облачные сохранения** – Соранение прогресса (GoogleAuth)  
-🛡️ **Защита от читов и взломов** – Честный игровой процесс  
+    - ✨ **Новые улучшения** – Больше способов зарабатывать!  
+    - 📅 **Ежедневные задания** – Особые награды за выполнение!  
+    - 🔐 **Облачные сохранения** – Соранение прогресса (GoogleAuth)  
+    - 🛡️ **Защита от читов и взломов** – Честный игровой процесс  
 
 📦 **Последняя версия уже доступна на [GitHub](https://github.com/Rifleks/ClickerApp/releases)!**   
